@@ -2,7 +2,7 @@ This is the Arduino code for the implementation of a XAAR XJ128 inkjet printhead
 
 Last update : August 2024
 
-# xaar128
+# XAAR XJ128
 
 ## Background
 
